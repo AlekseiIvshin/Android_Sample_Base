@@ -4,5 +4,8 @@
     <string name="app_name">Android_Sample_Base</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="checkbox_text">Checkable value</string>
+    <string name="edit_text_hint">Enter some text</string>
+    <string name="submit_text">Submit</string>
 
 </resources>
